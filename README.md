@@ -24,15 +24,27 @@ while it might not cure any diseases, it can cure the mild panic of "I have no i
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- Python, Markdown
+- Streamlit 
+- google.generativeai, Pillow (PIL): The Python Imaging Library, io, json, re, base64
+- 1. Programming Languages:Python
+2. Libraries/Modules:google.generativeai, Pillow (PIL): The Python Imaging Library, io, json, re, base64
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+Streamlit: The web framework for creating the user interface.   
+google.generativeai: The Google Generative AI library for interacting with the Gemini API.   
+Pillow (PIL): For image processing.
+io: For handling image data in memory.
+json: For working with JSON data (API responses).
+re: For regular expressions (used in parsing).   
+base64: For encoding image data.   
+3. Development Tools:A code editor like VS Code, Git, Command line.
+
+ 
+Git: A version control system (like Git) is highly recommended for managing the project's code and collaborating with others (if applicable). Platforms like GitHub, GitLab, or Bitbucket are commonly used to host Git repositories.
+Command-Line Interface (CLI): The command line or terminal is used for running Streamlit (streamlit run your_app.py), installing packages (pip install -r requirements.txt), and working with Git.
+4. Deployment Tools: Streamlit Cloud
+5. API: Gemini API
+
 
 ### Implementation
 For Software:
