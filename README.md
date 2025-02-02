@@ -16,10 +16,10 @@ https://drugsideeffectapp-2mfyfvvuyq3eethkhqcs4i.streamlit.app/
 This Streamlit app lets users identify medicines from images and get drug information.  Users upload an image of a pill or medicine bottle. The app uses Google's Gemini API to identify the drug and then provides details about its usage and potential side effects. 
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+This project solves the problem of "What is this pill I found?" or "I can't read the tiny print on this bottle!"  It tackles the everyday frustration of trying to identify medications when the labeling is unclear, missing, or you're just plain forgetful.
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+while it might not cure any diseases, it can cure the mild panic of "I have no idea what this is, and I don't want to accidentally take the wrong thing!"  It's a small solution to a surprisingly widespread problem.  It's the digital equivalent of asking a friend, "Hey, do you know what this pill is?" but with the added benefit of (hopefully) accurate information.
 
 ## Technical Details
 ### Technologies/Components Used
