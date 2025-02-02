@@ -27,14 +27,17 @@ For Software:
 
 -Languages used
   1. Programming Languages:Python
+
 -Libraries Used
-  2. Libraries/Modules:google.generativeai, Pillow (PIL): The Python Imaging Library, io, json, re, base64
+  3. Libraries/Modules:google.generativeai, Pillow (PIL): The Python Imaging Library, io, json, re, base64
+  
 -Framework used
-  3. Framework Used: Streamlit: The web framework for creating the user interface.   
+  4. Framework Used: Streamlit: The web framework for creating the user interface.   
+  
 -Tools
-  4. Development Tools:A code editor like VS Code, Git, Command line.
-  5. Deployment Tools: Streamlit Cloud
-  6. API: Gemini API
+  5. Development Tools:A code editor like VS Code, Git, Command line.
+  6. Deployment Tools: Streamlit Cloud
+  7. API: Gemini API
 
 
 ### Implementation
