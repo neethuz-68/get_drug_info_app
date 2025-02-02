@@ -1,20 +1,19 @@
-# [Project Name] 🎯
+Drug Information Finder from Image 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Navaneeta
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: V Navaneeta Saraswathy - College of Engineering, Trivandrum
+
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+https://drugsideeffectapp-2mfyfvvuyq3eethkhqcs4i.streamlit.app/
 
 ### Project Description
-[2-3 lines about what your project does]
+This Streamlit app lets users identify medicines from images and get drug information.  Users upload an image of a pill or medicine bottle. The app uses Google's Gemini API to identify the drug and then provides details about its usage and potential side effects. 
 
 ### The Problem statement
 [What ridiculous problem are you solving?]
